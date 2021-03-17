@@ -1,0 +1,86 @@
+[
+    {
+        "name": "WonGi Kim",
+        "number": "010-1234-5678",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "state": "Incheon",
+        "imageName": "Gi",
+        "description": "어플 주인",
+        "coordinates":{
+            "longitude": 126.587140,
+            "latitude": 36.692865
+        }
+    },
+    {
+        "name": "SeHoon Kim",
+        "number": "010-1234-5678",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": false,
+        "state": "Seoul",
+        "imageName": "Hoon",
+        "description": "힙찔이",
+        "coordinates":{
+            "longitude": 126.587140,
+            "latitude": 36.692865
+        }
+    },
+    {
+        "name": "JongWoong Ahan",
+        "number": "010-1234-5678",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": false,
+        "state": "OSan",
+        "imageName": "Woong",
+        "description": "큐트좌",
+        "coordinates":{
+            "longitude": 126.587140,
+            "latitude": 36.692865
+        }
+    },
+    {
+        "name": "EunHyuk Lee",
+        "number": "010-1234-5678",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": false,
+        "state": "Incheon",
+        "imageName": "Hyuk",
+        "description": "인천은 빠꾸가 없어",
+        "coordinates":{
+            "longitude": 126.587140,
+            "latitude": 36.692865
+        }
+    },
+    {
+        "name": "JinWook Choi",
+        "number": "010-1234-5678",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "state": "HwaSung",
+        "imageName": "Wook",
+        "description": "전역언제함",
+        "coordinates":{
+            "longitude": 126.587140,
+            "latitude": 36.692865
+        }
+    },
+    {
+        "name": "SeungBeom Hyun",
+        "number": "010-1234-5678",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": false,
+        "state": "Jeju-Island",
+        "imageName": "Beom",
+        "description": "감귤국 왕자",
+        "coordinates":{
+            "longitude": 126.587140,
+            "latitude": 36.692865
+        }
+    }
+]
